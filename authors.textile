@@ -5,7 +5,7 @@ layout: master
 
 h2. Cloves Carneiro Jr
 
-Cloves Carneiro Jr. is a software engineer and web application developer with over twelve years of experience creating web applications for companies in many fields, including startups, and telecommunication and financial companies. He has been using Ruby on Rails since its early days, being a full-time Rails developer for 4 years, he currently works for Amazon.com in Seattle. Born in Brazil and living in many parts of the world, he now lives in Seattle, WA, USA, with his wife Jane and son Noah. He also maintains a personal web site at "http://ccjr.name":http://ccjr.name.
+Cloves Carneiro Jr. is a software engineer and web application developer with over twelve years of experience creating web applications for companies in many fields, including startups, and telecommunication and financial companies. He has been using Ruby on Rails since its early days, being a full-time Rails developer for 4 years, he currently works for Amazon.com in Seattle. Born in Brazil and living in many parts of the world, he now lives in Seattle, WA, USA, with his wife Jane and son Noah. He also maintains a personal web site at "http://www.clovescarneirojr.com/":http://www.clovescarneirojr.com/.
 
 h2. Rida Al Barazi
 
